@@ -1,2 +1,2 @@
 # healthy_recipe
-Healthy Recipe Project using HTML and CSS
+Healthy Recipe Codecademy Project using HTML and CSS
