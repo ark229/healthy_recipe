@@ -1,0 +1,28 @@
+img{
+  height: 250px;
+}
+
+.description{
+  font-size: 20px;
+}
+
+#cook-time-id{
+  font-weight: bold;
+}
+
+ul li{
+  list-style: square;
+  color: purple
+}
+
+.time{
+  color: gray
+}
+
+.external-link{
+  color: SeaGreen;
+}
+
+h1, h2, p, li{
+  font-family: Helvetica;
+}
